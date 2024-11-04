@@ -17,7 +17,7 @@
     <Book Series="Justice League America Annual" Number="5" Volume="1991" Year="1991" Format="Annual">
       <Id>a3223281-a7dd-4c62-84ba-2bb2c7a99e60</Id>
     </Book>
-    <Book Series="Hawkworld" Number="2" Volume="1989" Year="1989" Format="Limited Series">
+    <Book Series="Hawkworld Annual" Number="2" Volume="1990" Year="1991" Format="Annual">
       <Id>5381f8f5-eac8-4981-955f-36161ecc993a</Id>
     </Book>
     <Book Series="The Flash Annual" Number="4" Volume="1987" Year="1991" Format="Annual">
